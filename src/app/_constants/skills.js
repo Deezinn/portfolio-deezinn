@@ -25,15 +25,15 @@ import { SiPython, SiPandas, SiFastapi, SiPlotly, SiLinux, SiPostgresql, SiGithu
 export const tecnologias_cards = [
   {
     tec: [
-      { image: <SiNextdotjs size={30} />, tecnologia: "Next.js" },
-      { image: <SiPython size={30} />, tecnologia: "Python" },
-      { image: <SiJavascript size={30} />, tecnologia: "JavaScript" },
-      { image: <SiGithub size={30} />, tecnologia: "GitHub Projects" },
-      { image: <SiPlotly size={30} />, tecnologia: "Plotly" },
-      { image: <SiFastapi size={30} />, tecnologia: "FastAPI" },
-      { image: <SiPandas size={30} />, tecnologia: "Pandas" },
-      { image: <SiLinux size={30} />, tecnologia: "Linux" },
-      { image: <SiPostgresql size={30} />, tecnologia: "PostgreSQL" },
+      { image: <SiNextdotjs size={20} />, tecnologia: "Next.js" },
+      { image: <SiPython size={20} />, tecnologia: "Python" },
+      { image: <SiJavascript size={20} />, tecnologia: "JavaScript" },
+      { image: <SiGithub size={20} />, tecnologia: "GitHub Projects" },
+      { image: <SiPlotly size={20} />, tecnologia: "Plotly" },
+      { image: <SiFastapi size={20} />, tecnologia: "FastAPI" },
+      { image: <SiPandas size={20} />, tecnologia: "Pandas" },
+      { image: <SiLinux size={20} />, tecnologia: "Linux" },
+      { image: <SiPostgresql size={20} />, tecnologia: "PostgreSQL" },
     ],
   },
 ];
